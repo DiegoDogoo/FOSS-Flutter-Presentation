@@ -6,6 +6,12 @@ The source code is uploaded as just the dart file, as the entire flutter project
 
 The main.dart file consists of very descriptive comments embedded throughout, so that way anyone can understand at first glance. There are so many comments it almost impedes the actual code (when does that ever happen in production lol), but this serves as a great launching point for anyone getting started. There is also the version without any comments, if wanted.
 
+Here are the google slides that go along with the general intro to flutter:
+ - Part 1
+   - https://docs.google.com/presentation/d/18JVh0gF1FRWKir0h6EcKZ_Tdb3KMFBsTkSSnJ9SjN8o/edit?usp=sharing
+ - Part 2
+   - https://docs.google.com/presentation/d/11ftR03S19hmFHr78BbquFACjnb9EHViISsu8xqDLQWA/edit?usp=sharing
+
 # Sample Screens
 <div align="center">
 
